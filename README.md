@@ -2,6 +2,8 @@
   
 # All my Shadertoy shaders!
 #### Shadertoy profile with all my shaders > [shadertoy.com/user/jumagfx](https://www.shadertoy.com/user/jumagfx)
+#### Press the top right redirect icon to see each shader on Shadertoy with good quality!
+
 
 ### Rainbow Cubes
 
