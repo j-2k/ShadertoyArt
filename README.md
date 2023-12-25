@@ -6,7 +6,7 @@
 ### Rainbow Cubes
 
 <a href="https://www.shadertoy.com/user/jumagfx"> 
-	<img src="rainbow_cubes.gif"/> 
+	<img src="rainbow_cubes_400x400@20&9s+35%.gif"/> 
 </a> 
 
 ---
