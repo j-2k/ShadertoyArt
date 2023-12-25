@@ -5,7 +5,9 @@
 
 ### Rainbow Cubes
 
-<a href="https://www.shadertoy.com/view/lcsGDB"><img src="rainbow_cubes.gif"></a>
+<a href="https://www.shadertoy.com/user/jumagfx"> 
+	<img src="rainbow_cubes.gif"/> 
+</a> 
 
 ---
 
