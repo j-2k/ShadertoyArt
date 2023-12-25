@@ -4,8 +4,7 @@
 #### Shadertoy profile with all my shaders > [shadertoy.com/user/jumagfx](https://www.shadertoy.com/user/jumagfx)
 
 ### Rainbow Cubes
-![rainbow_cubes_400x400@20 9s+35%](https://github.com/j-2k/ShadertoyArt/assets/52252068/4f96320b-e795-4225-a1e3-9e2fe7968cc7)
-
+<a href="https://www.shadertoy.com/view/lcsGDB"><img src="rainbow_cubes_400x400@20&9s+35%.gif"></a>
 ---
 
 ***Tools used below to showcase GIFs***   
