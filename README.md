@@ -2,9 +2,9 @@
   
 # All my Shadertoy shaders!
 #### Shadertoy profile with all my shaders > [shadertoy.com/user/jumagfx](https://www.shadertoy.com/user/jumagfx)
-#### Press the top right redirect icon to see each shader on Shadertoy with good quality!
+#### Press the link or top right redirect icon to see each shader on Shadertoy with good quality!
 
-Rainbow Cubes             |  WIP Reflection
+[Rainbow Cubes](https://www.shadertoy.com/view/lcsGDB)             |  WIP Reflection
 :-------------------------:|:-------------------------:
 <a href="https://www.shadertoy.com/view/lcsGDB"> <img src="Rainbow_Cubes.gif"/> </a>   |  ![](Rainbow_Cubes.gif)
 
