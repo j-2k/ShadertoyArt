@@ -8,6 +8,11 @@
 :-------------------------:|:-------------------------:
 <a href="https://www.shadertoy.com/view/lcsGDB"> <img src="Rainbow_Cubes.gif"/> </a>   |  <a href="https://www.shadertoy.com/view/lflGD2"> <img src="Kings_Reflection.gif"/> </a>
 
+| Coming soon... | [Kings Reflection Debug](https://www.shadertoy.com/view/lflGD2) 
+:-------------------------:|:-------------------------:
+ | Coming soon... | <a href="https://www.shadertoy.com/view/lflGD2"> <img src="Kings_Reflection_Debug.gif"/> </a>
+
+
 ---
 
 ***Tools used below to showcase GIFs***   
