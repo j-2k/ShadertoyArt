@@ -4,11 +4,6 @@
 #define time2 (iTime*10.)
 #define snowlayers 6.
 #define ITERS 6
-//palette by inigo quilez
-vec3 palette( in float t, in vec3 a, in vec3 b, in vec3 c, in vec3 d )
-{
-    return a + b*cos( 6.28318*(c*t+d) );
-}
 //Dave Hoskins 1x1 hash
 float hash11(float p)
 {p = fract(p * .1031); p *= p + 33.33; p *= p + p; return fract(p);}
