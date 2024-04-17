@@ -4,14 +4,11 @@
 #### Shadertoy profile with all my shaders > [shadertoy.com/user/jumagfx](https://www.shadertoy.com/user/jumagfx)
 #### Press the link or top right redirect icon to see each shader on Shadertoy with good quality!
 
-<a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>             |  [Kings Reflection](https://www.shadertoy.com/view/lflGD2)
+[Rainbow Cubes](https://www.shadertoy.com/view/lcsGDB) | [Kings Reflection](https://www.shadertoy.com/view/lflGD2)
 :-------------------------:|:-------------------------:
 <a href="https://www.shadertoy.com/view/lcsGDB"> <img src="Rainbow_Cubes/Rainbow_Cubes.gif"/> </a>   |  <a href="https://www.shadertoy.com/view/lflGD2"> <img src="Kings_Reflection/Kings_Reflection.gif"/> </a>
-<a href="https://www.google.com" target="_blank" rel="noopener noreferrer">www.google.com</a>
-| [Never Seen Snow](https://www.shadertoy.com/view/MXBXDG) | [Kings Reflection Debug](https://www.shadertoy.com/view/lflGD2) 
-:-------------------------:|:-------------------------:
- | <a href="https://www.shadertoy.com/view/lflGD2"> <img src=""/> </a> | <a href="https://www.shadertoy.com/view/lflGD2"> <img src="Kings_Reflection/Kings_Reflection_Debug.gif"/> </a>
-
+[Never Seen Snow](https://www.shadertoy.com/view/MXBXDG) | [Kings Reflection Debug](https://www.shadertoy.com/view/lflGD2)
+<a href="https://www.shadertoy.com/view/lflGD2"> <img src=""/> </a> | <a href="https://www.shadertoy.com/view/lflGD2"> <img src="Kings_Reflection/Kings_Reflection_Debug.gif"/> </a>
 
 ---
 
