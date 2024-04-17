@@ -16,6 +16,7 @@ void mainImage( out vec4 fragColor, in vec2 fragCoord )
 {
     // Normalized pixel coordinates (from 0 to 1)
     vec2 uv = fragCoord/iResolution.xy;
+    uv.x *= iResolution.x / iResolution.y;
     
     float s = 0.;
     for(float i = 1.; i < snowlayers + 1.; i++)
@@ -34,7 +35,7 @@ void mainImage( out vec4 fragColor, in vec2 fragCoord )
         s = r > 0.96 ? n : s;
     }
     
-    s += .4;
+    s += 0.3;
     
     float topmask = smoothstep(0.2, 0., uv.y);
     s -= topmask / 5.;
