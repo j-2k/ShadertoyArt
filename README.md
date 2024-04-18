@@ -22,11 +22,11 @@ ex. 500 x 500 @ 20 & 9s - 35%
 
 <details>
   <summary>GIFs Properties</summary>
-Rainbow Cubes: 400 x 400 @ 20fps & 9s - 35%  
   
-Kings Reflection: 400 x 400 @ 25fps & 5s -35%
-
-Never Seen Snow: 500 x 500 @ 28fps & 5s - no compression
+Rainbow Cubes: 400 x 400 @ 20fps & 9s - 35%  
+Kings Reflection: 400 x 400 @ 25fps & 5s -35%  
+Never Seen Snow: 500 x 500 @ 28fps & 5s - no compression  
+  
 </details>
 
 </div>
