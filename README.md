@@ -3,6 +3,7 @@
 # All my Shadertoy shaders!
 #### Shadertoy profile with all my shaders > [shadertoy.com/user/jumagfx](https://www.shadertoy.com/user/jumagfx)
 #### Press the link or top right redirect icon to see each shader on Shadertoy with good quality!
+#### Some of these shaders are not on shadertoy & are made in engine (if the word engine is next to the title then its made in engine)!
 
 [Rainbow Cubes](https://www.shadertoy.com/view/lcsGDB) | [Kings Reflection](https://www.shadertoy.com/view/lflGD2)
 :-------------------------:|:-------------------------:
