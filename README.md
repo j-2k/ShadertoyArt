@@ -15,6 +15,14 @@ IMG1 | IMG2
 
 ---
 
+# Noise & Hashing shaders
+
+[Vornoi]() | [Fractional Brownian Motion]() | [Value]()
+:---:|:---:|:---:
+A | B | C
+
+---
+
 ***Tools used below to showcase GIFs***   
 Shadertoy Exporter: https://github.com/KoltesDigital/shadertoy-exporter   
 GIF Compressor/Optimizer: https://ezgif.com/optimize  
