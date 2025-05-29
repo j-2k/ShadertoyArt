@@ -1,3 +1,5 @@
+//View on shadertoy > https://www.shadertoy.com/view/WfdGRB
+
 #define MAX_STEPS 100
 #define cubeEdgeFixMult 0.3
 #define MAX_DIST 70.0
