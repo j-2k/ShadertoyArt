@@ -40,6 +40,7 @@ Rainbow Cubes: 400 x 400 @ 20fps & 9s - 35%
 Kings Reflection: 400 x 400 @ 25fps & 5s -35%  
 Never Seen Snow: 500 x 500 @ 28fps & 5s - no compression  
 Fake Blue Cave: 400 x 400 @ 24fps & 8s (+3s start) - no compression  
+Hopium Clouds: 500 x 350 @ 25fps & 12s (0s start) - no compression  
   
 </details>
 
